@@ -3,4 +3,4 @@ Code used to produce dark matter velocity distributions from DREAMS CDM simulati
 
 KDE_Tutorial shows how to get the velocity distributions and then plotting them. 
 
-Emulator_Tutorial shows how to get emulated velocity distributions using the NeHOD normalizing flows emulator. 
+Emulator_Tutorial shows how to get emulated velocity distributions using the NeHOD normalizing flows emulator. Based on the emulator from https://github.com/trivnguyen/nehod_torch
